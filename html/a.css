@@ -1,0 +1,27 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+
+}
+
+body { 
+
+     position : relative ;
+     width:100%;
+     min-height: 100vh;
+     height: auto;
+     display: flex;
+     justify -content:center;
+     align -item: center;
+     background -image:url('../img/bg.png');
+     background-size:cover;
+     background -position :center;
+     font-family:'roboto' , sans-serif;
+
+
+
+}
+
+
+
